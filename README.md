@@ -30,6 +30,7 @@ If you don't have it, you can download it here:
 
 🔗 [Download Visual Studio Code](https://code.visualstudio.com/download)
 
+> The exercises were originally written in Portuguese, but each file includes the task description commented in English.
 ---
 
 ### 🛠️ How to Run the Exercises
